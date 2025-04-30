@@ -14,11 +14,12 @@ Ferramentas: Git, GitHub, VS Code, VS, Android Studio
 
 
 📫 Como me encontrar
-LinkedIn
 
-GitHub
+📃 LinkedIn
+
 
 🏆 Conquistas
+
 Participação ativa em projetos open-source
 
 Contribuições significativas em repositórios públicos
