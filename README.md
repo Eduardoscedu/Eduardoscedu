@@ -8,7 +8,7 @@
 
 Linguagens: Python, Java, Kotlin, SQL, HTML, CSS
 
-Banco de Dados: MySQL, MongoDB
+Banco de Dados: MySQL, Firebase
 
 Ferramentas: Git, GitHub, VS Code, VS, Android Studio
 
