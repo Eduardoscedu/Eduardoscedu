@@ -28,4 +28,4 @@ Reconhecimento por boas práticas de codificação
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,php,python,kotlin,firebase,mysql,sqlserver,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,php,python,kotlin,firebase,mysql,aws,docker)](https://skillicons.dev)
