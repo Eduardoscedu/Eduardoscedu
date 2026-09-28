@@ -6,7 +6,7 @@
 
 🚀 Tecnologias & Ferramentas
 
-Linguagens: Python, Java, Kotlin, SQL, HTML, CSS
+Linguagens: Java, Python, Kotlin, SQL, HTML, CSS
 
 Banco de Dados: MySQL, Firebase
 
